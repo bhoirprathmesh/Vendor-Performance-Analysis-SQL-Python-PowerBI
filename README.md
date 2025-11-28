@@ -131,7 +131,7 @@ The Power BI Dashboard includes:
 - Performance Heatmaps
 
 **Dashboard Preview:**  
-![Dashboard Preview](images\vendor.png)
+![Dashboard Preview](images/vendor.png)
 
 ---
 
@@ -173,11 +173,7 @@ dashboard/vendor_analysis.pbix
 ## Final Recommendations
 
 - Diversify vendor base to reduce risk
-
 - Optimize bulk order strategies
-
 - Reprice slow-moving, high-margin brands
-
 - Clear unsold inventory strategically
-
 - Improve marketing for underperforming vendors
